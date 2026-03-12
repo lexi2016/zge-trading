@@ -1,6 +1,6 @@
 # Z哥交易体系 (zge-trading)
 
-基于zettaranc"大富翁小菜鸟"公众号的股票交易战法体系。
+基于zettaranc"股票交易战法体系。
 
 ## 核心战法
 
